@@ -35,6 +35,7 @@ This format offer the Data Space Community a place for exchange between projects
 ### Upcoming Events
 
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
+- 03.07.2024: Gaia-X Trust Framework Session (check LinkedIn channel)
 
 ### Past Meetings & Interesting Reads
 - [TRAIN Trust Validator](https://gitlab.eclipse.org/eclipse/xfsc/train/trusted-content-resolver)
