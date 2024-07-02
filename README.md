@@ -38,3 +38,4 @@ This format offer the Data Space Community a place for exchange between projects
 
 ### Past Meetings & Interesting Reads
 - [TRAIN Trust Validator](https://gitlab.eclipse.org/eclipse/xfsc/train/trusted-content-resolver)
+- [DSSC Building Block Trust Framework](https://dssc.eu/space/BVE/357075461/Trust+Framework)
