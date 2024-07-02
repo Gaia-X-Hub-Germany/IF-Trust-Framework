@@ -2,7 +2,7 @@
 
 ### General Information
 
-This is the repository for the Data Space Implementation Forum "Trust Framework", dealing with the corresponding DSSC Building Blocks.
+This is the repository for the Data Space Implementation Forum "Trust Framework", dealing with the corresponding DSSC Building Block.
 
 We are currently not meeting regularly.
 
@@ -37,4 +37,4 @@ This format offer the Data Space Community a place for exchange between projects
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 
 ### Past Meetings & Interesting Reads
-
+- [TRAIN Trust Validator](https://gitlab.eclipse.org/eclipse/xfsc/train/trusted-content-resolver)
